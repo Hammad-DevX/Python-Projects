@@ -38,4 +38,4 @@ The program evaluates passwords based on common real-world security rules.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/password-strength-checker.git
+git clone https://github.com/Hammad-DevX/password-strength-checker.git
